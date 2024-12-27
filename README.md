@@ -15,7 +15,7 @@ This project is a **Smoke Detection System** designed to monitor smoking areas, 
   - Raspberry
   - Smoke sensor (e.g., MQ-2 or similar)
   - Internet connection for sending email alerts
-
+ 
 - **Software**:
   - Python 3.x
   - `smtplib` (for sending email alerts)
@@ -23,6 +23,11 @@ This project is a **Smoke Detection System** designed to monitor smoking areas, 
   - `random` (for simulated sensor data)
   - `time` (for controlling the timing of data collection)
   - `datetime` (for time-stamping events)
+ 
+[Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/)
+[MQ-2 Smoke Sensor](https://www.example.com)
+
+
  
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
