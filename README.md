@@ -34,6 +34,7 @@ This project is a **Smoke Detection System** designed to monitor smoking areas, 
    ```bash
    git clone https://github.com/UnjenN/smokedetector.git
    cd smokedetector
+   ```
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
