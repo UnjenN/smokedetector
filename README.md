@@ -25,9 +25,6 @@ This project is a **Smoke Detection System** designed to monitor smoking areas, 
   - `datetime` (for time-stamping events)
  
 [Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/)
-
-[MQ-2 Smoke Sensor](https://www.example.com)
-
 ## Installation
 
   - Clone the repository:
