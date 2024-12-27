@@ -25,13 +25,8 @@ This project is a **Smoke Detection System** designed to monitor smoking areas, 
   - `datetime` (for time-stamping events)
  
 [Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/)
+
 [MQ-2 Smoke Sensor](https://www.example.com)
-
-
- 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Python Version](https://img.shields.io/badge/python-3.x-blue)
 
 ## Installation
 
@@ -39,3 +34,7 @@ This project is a **Smoke Detection System** designed to monitor smoking areas, 
    ```bash
    git clone https://github.com/UnjenN/smokedetector.git
    cd smokedetector
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python Version](https://img.shields.io/badge/python-3.x-blue)
