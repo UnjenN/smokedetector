@@ -1,3 +1,5 @@
+# This code is only used for test run.
+
 import random
 import smtplib
 import time
