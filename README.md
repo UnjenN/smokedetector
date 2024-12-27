@@ -2,8 +2,6 @@
 
 This project is a **Smoke Detection System** designed to monitor smoking areas, particularly in places where it is difficult to directly detect smoking through CCTV. In areas such as public restrooms, stairwells, or secluded corners, traditional surveillance systems may not be effective at identifying smokers. This system addresses that gap by using sensors to detect smoke and sending an immediate alert via email when smoking is detected.
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-
 ## Features
 
 - **Smoke Detection**: Continuously monitors smoke levels in a designated area.
@@ -26,9 +24,9 @@ This project is a **Smoke Detection System** designed to monitor smoking areas, 
   - `time` (for controlling the timing of data collection)
   - `datetime` (for time-stamping events)
  
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python Version](https://img.shields.io/badge/python-3.x-blue)
-
-[License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Installation
 
